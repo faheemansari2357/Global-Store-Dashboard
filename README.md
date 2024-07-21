@@ -2,6 +2,14 @@
 
 ## Project Overview
 
+Interactive Visuals: Displays sales and profit metrics across regions and categories.
+KPI Insights: Highlights sales growth, profit margins, and top products.
+Easy Navigation: Clean design with filters for customization.
+
+### Data Source
+
+
+
 ### Tools
 
 - Tableau
