@@ -2,10 +2,7 @@
 
 ## Project Overview
 
-Developed Global superstore retail domain dashboard using Tableau, SQL, and Python.
-Interactive Visuals: Displays sales and profit metrics across regions and categories.
-KPI Insights: Highlights sales growth, profit margins, and top products.
-Easy Navigation: Clean design with filters for customization.
+Designed a tableau dashboard for Global Service Store to track and analyze the online sales data acorss worldwide.
 
 ### Data Source
 
